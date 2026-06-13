@@ -27,8 +27,8 @@ init(autoreset=True)
 
 # ===== Crypto Lord Password =====
 
-TOOL_USERNAME = "CryptoLord"
-TOOL_PASSWORD = "Manager"
+TOOL_USERNAME = "Am"
+TOOL_PASSWORD = "Evil"
 
 # ===== GMAIL ACCOUNTS =====
 GMAIL_ACCOUNTS = [
