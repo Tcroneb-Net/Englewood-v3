@@ -21,6 +21,6 @@ pip install requests
 
 git clone https://github.com/Tcroneb-Net/Englewood-v3
 
-cd Crypto-Lord-Vip-Ban-method
+cd Englewood-v3
 
 python ban.py
