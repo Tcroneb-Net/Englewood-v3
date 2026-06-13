@@ -1,4 +1,8 @@
 # Englewood-v3
+
+# TOOL_USERNAME = Am
+# TOOL_PASSWORD = Evil
+
 Termux - Whatsapp Ban 
 
 apt update
